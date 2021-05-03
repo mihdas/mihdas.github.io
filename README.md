@@ -3,4 +3,4 @@ hello world
 
 [HTML](https://mihdas.github.io/lol.html)
 
-[Resume](https://mihdas.github.io/assgn.pdf)
+[Resume](https://mihdas.github.io/assgn6.pdf)
