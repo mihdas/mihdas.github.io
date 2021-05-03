@@ -1,3 +1,3 @@
 # Mihir Vipradas
 hello world
-[HTML](https://mihdas.github.io/index.html)
+[HTML](https://mihdas.github.io/lol.html)
