@@ -24,6 +24,6 @@ function unDo(){
        2) Change the text  of the div with the id = "image" 
        back to the original text.  You can use the html code to see what that original text was
        */
-//       document.getElementById('image').innerHTML="Hover over an image below to display here.";
+      document.getElementById('image').innerHTML="Hover over an image below to display here.";
       document.getElementById('image').style.backgroundImage="url('')";
 }
